@@ -1,56 +1,52 @@
-/*<meta name = "viewport" 
-initial-scale = 1.0;
-maximum-scale = 1.0;
-user-scalable = 0; />
-*/
+head {
+  color: white;
+}
+
 body {
-	background-color: #000000;
+  background-color: #000000;
 	color: #FFFFFF;
-	font-family: Arial;
+	font-family: Helvetica;
 }
 
 h1 {
-	/*color: white;*/
 	text-align: center;
 	font-size: 48px;
 	padding-top: 30px;
 	padding-bottom: 30px;
-	/*margin-left:
-	margin-right:; */
 }
 
 h3 {
 	font-size: 20px;
-	/*color: white;*/
 	margin-left: 20%;
 	margin-right: 20%;
-	padding-bottom: 10px;
+	padding-bottom: 5px;
 }
 
 p {
 	font-size: 18px;
 	text-align: center;
-	/*color: white;*/
+  font-family: Helvetica;
 }
 
 div.header {
-	font-size: 25px;
+	font-size: 30px;
 	text-align: left;
-	margin-left: 20%;
-	margin-right: 20%;
-	/*color: white;*/
+	margin-left: 15%;
+	margin-right: 15%;
+	padding-top: 30px;
+  padding-bottom: 5px;
 }
 
 div.date {
-	font-size: 18px;
+	font-size: 14px;
 	text-align: left;
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 15%;
+	margin-right: 15%;
 	color: #D3D3D3;
 }
 
 div.list {
-	font-size: 18px;
+	font-size: 14.5px;
 	/*color: white;*/
 	text-align: left;
 	margin-left: 20%;
@@ -58,16 +54,32 @@ div.list {
 }
 
 div.location {
-	font-size: 18px;
+	font-size: 16px;
 	text-align: left;
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 15%;
+	margin-right: 15%;
 	color: #D3D3D3;
 }
 
-h3.job{
+div.job{
+	font-size: 18px;
+	text-align: left;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.link{
+  color: gray;
+  font-size: 20px:
+}
+
+.subpage{
+  color: white;
+  font-size: 20px;
+  font-family: Helvetica;
+#degree{
 	font-size: 22px;
 	text-align: left;
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left:15%;
+	margin-right: 15%;
 }
