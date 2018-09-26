@@ -1,9 +1,10 @@
 head {
-  color: white;
+	text-align: center;
+	color: white;
 }
 
 body {
-  background-color: #000000;
+	background-color: #000000;
 	color: #FFFFFF;
 	font-family: Helvetica;
 }
@@ -25,7 +26,7 @@ h3 {
 p {
 	font-size: 18px;
 	text-align: center;
-  font-family: Helvetica;
+	font-family: Helvetica;
 }
 
 div.header {
@@ -34,7 +35,7 @@ div.header {
 	margin-left: 15%;
 	margin-right: 15%;
 	padding-top: 30px;
-  padding-bottom: 5px;
+	padding-bottom: 5px;
 }
 
 div.date {
@@ -69,17 +70,17 @@ div.job{
 }
 
 .link{
-  color: gray;
-  font-size: 20px:
+	color: gray;
+	font-size: 20px:
 }
 
 .subpage{
-  color: white;
-  font-size: 20px;
-  font-family: Helvetica;
-#degree{
-	font-size: 22px;
-	text-align: left;
-	margin-left:15%;
-	margin-right: 15%;
-}
+	color: white;
+	font-size: 20px;
+	font-family: Helvetica;
+	#degree{
+		font-size: 22px;
+		text-align: left;
+		margin-left:15%;
+		margin-right: 15%;
+	}
