@@ -27,25 +27,25 @@ h3 {
 
 p {
 	font-size: 18px;
+	text-align: center;
 	color: white;
 	background-color: #000000;
 }
 
-/*ul {
+div.header {
 	background-color: #000000;
+	font-size: 30px;
 	text-align: left;
 	margin-left: 20%;
 	margin-right: 20%;
-}*/
-
-div.header {
-	background-color: #000000;
-	font-size: 36px;
 	color: white;
 }
 
 div.date {
-	font-size: 15px;
+	font-size: 18px;
+	text-align: left;
+	margin-left: 20%;
+	margin-right: 20%;
 	color: #D3D3D3;
 	background-color: #000000;
 }
