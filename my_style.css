@@ -4,11 +4,12 @@ maximum-scale = 1.0;
 user-scalable = 0; />
 
 body {
-	background color: #000000
+	background-color: #000000
 	font-family: Palatino Linotype;
 }
 
 h1 {
+	background color: #000000
 	text-align: center;
 	font-size: 48px;
 	padding-top: 30px;
@@ -17,25 +18,31 @@ h1 {
 	margin-right:; */
 }
 
+h3 {
+	background-color: 
+}
 p {
+	background-color: #000000
 	font-size: 18px;
 	color: white;
 }
 
 ul {
-	background color: #000000;
+	background-color: #000000;
 	text-align: left;
 	margin-left: 20%;
 	margin-right: 20%;
 }
 
-.header {
+div.header {
+	background color: #000000
 	font-size: 36px;
 	color: white;
 }
 
-.date {
+div.date {
+	background-color: #000000
 	font-size: 20px;
 	color: #D3D3D3;
-	
+
 }
