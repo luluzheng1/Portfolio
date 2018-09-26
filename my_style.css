@@ -1,10 +1,11 @@
-<meta name = "viewport" 
+/*<meta name = "viewport" 
 initial-scale = 1.0;
 maximum-scale = 1.0;
 user-scalable = 0; />
-
+*/
 body {
-	background-color: black;
+	background-color: #000000;
+	color: #FFFFFF;
 	font-family: Arial;
 }
 
@@ -21,6 +22,8 @@ h1 {
 h3 {
 	font-size: 20px;
 	/*color: white;*/
+	margin-left: 20%;
+	margin-right: 20%;
 	padding-bottom: 10px;
 }
 
@@ -48,7 +51,22 @@ div.date {
 
 div.list {
 	font-size: 18px;
-	color: white;
+	/*color: white;*/
+	text-align: left;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+div.location {
+	font-size: 18px;
+	text-align: left;
+	margin-left: 20%;
+	margin-right: 20%;
+	color: #D3D3D3;
+}
+
+h3.job{
+	font-size: 22px;
 	text-align: left;
 	margin-left: 20%;
 	margin-right: 20%;
