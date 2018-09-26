@@ -4,12 +4,12 @@ maximum-scale = 1.0;
 user-scalable = 0; />
 
 body {
-	background-color: #000000
+	background-color: #000000;
 	font-family: Palatino Linotype;
 }
 
 h1 {
-	background color: #000000
+	background color: #000000;
 	text-align: center;
 	font-size: 48px;
 	padding-top: 30px;
@@ -19,30 +19,43 @@ h1 {
 }
 
 h3 {
-	background-color: 
+	background-color: #000000;
+	font-size: 30px;
+	color: white;
+	padding bottomr: 10px;
+
 }
 p {
-	background-color: #000000
+	background-color: #000000;
 	font-size: 18px;
 	color: white;
 }
 
-ul {
+/*ul {
 	background-color: #000000;
 	text-align: left;
 	margin-left: 20%;
 	margin-right: 20%;
-}
+}*/
 
 div.header {
-	background color: #000000
+	background color: #000000;
 	font-size: 36px;
 	color: white;
 }
 
 div.date {
-	background-color: #000000
-	font-size: 20px;
+	background-color: #000000;
+	font-size: 15px;
 	color: #D3D3D3;
 
+}
+
+div.list {
+	background-color: #000000;
+	font-size: 18px;
+	color: white;
+	text-align: left;
+	margin-left: 20%;
+	margin-right: 20%;
 }
