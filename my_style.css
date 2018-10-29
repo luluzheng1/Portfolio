@@ -1,11 +1,11 @@
 head {
 	text-align: center;
-	color: white;
+	color: #000000;
 }
 
 body {
-	background-color: #000000;
-	color: #FFFFFF;
+	background-color: #E1E1EA;
+	color: #000000;
 	font-family: Helvetica;
 }
 
@@ -43,12 +43,11 @@ div.date {
 	text-align: left;
 	margin-left: 15%;
 	margin-right: 15%;
-	color: #D3D3D3;
+	color: #000000;
 }
 
 div.list {
 	font-size: 14.5px;
-	/*color: white;*/
 	text-align: left;
 	margin-left: 20%;
 	margin-right: 20%;
@@ -59,7 +58,7 @@ div.location {
 	text-align: left;
 	margin-left: 15%;
 	margin-right: 15%;
-	color: #D3D3D3;
+	color: #000000;
 }
 
 div.job{
@@ -70,12 +69,12 @@ div.job{
 }
 
 .link{
-	color: gray;
+	color: #000000;
 	font-size: 20px;
 }
 
 .subpage{
-	color: white;
+	color: #000000;
 	font-size: 20px;
 	font-family: Helvetica;
 }
